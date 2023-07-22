@@ -1139,6 +1139,18 @@ body {
   .blog-card .card-title { --fs-4: 2.6rem; }
 
 
+/*Map*/
+#map-frame {
+  width: 100%;
+  margin: 0 0 1.4rem 0;
+  padding: 10px;
+}
+#map {
+  width: 100%;
+  border: none;
+  border-radius: 20px;
+  height: 400px;
+}
 
   /**
    * FOOTER
